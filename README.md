@@ -35,7 +35,7 @@ This operation gives you a dict variable where the key is the gene in your targe
 - `RSCU_max_dict()` : get the maximum RSCU among synomyous codons `{AA : RSCU_max}`
 - `w_dict()` : get the relative adaptiveness for each codon `{codon : w}`
 - `CAI_calculate()` : get the CAI for each gene 
-- `get_CAI_dict()` : get the CAI dictionary `{gene : CAI}
+- `get_CAI_dict()` : get the CAI dictionary `{gene : CAI}`
 - `get_error_ref_list()` and `get_error_target_list()` : these two methods return the genes that can not be divided by 3
 
 ```python
