@@ -6,7 +6,7 @@
 - Web servers usually limit the size of your uploading files
 - Biopython is hard to use for calculating CAI, and also limited to specific organisms. 
 
-## Main function of this simple script
+## Main function
 
 ### Sequence feature extraction
 
