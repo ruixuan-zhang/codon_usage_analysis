@@ -12,7 +12,6 @@
 
 - Calculate `RSCU` and relative adaptiveness (`w`) of codons based on a set of coding sequences.
 - Calculate `CAI` of any given coding sequences using `RSCU`
-- Calculate `GC%` and `GC3` of any given sequences
 
 ### Current usage [2023-04-18]
 
@@ -50,3 +49,8 @@ error_ref_list = analysis.get_error_ref_list()
 error_target_list = analysis.get_error_target_list()
 ```
 
+### To do list
+
+- [ ] Calculate `GC%` and `GC3` of any given sequences
+- [ ] Implement plot function ?
+- [ ] Correlation test?
