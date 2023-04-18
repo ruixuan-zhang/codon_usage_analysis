@@ -170,7 +170,7 @@ class CodonUsageAnalysis:
         print("The error gene list is:", self.error_target_list)
         
     
-    def get_error_seq_list(self):
+    def get_error_target_list(self):
         return self.error_target_list
     
     def get_CAI_dict(self):
