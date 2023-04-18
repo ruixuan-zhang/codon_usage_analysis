@@ -11,7 +11,6 @@ class CodonUsageAnalysis:
     - gene_list : is the list of genes in selection, such as ribosomal proteins, etc.
     - cds_path : is the path to the cds file of the corresponding organisms
     - codon_table : is the codon table where the key is amino acid and the value is a list of correponding codon. A standard genetic code has been implemented
-    
 
     Dependencies:
 
